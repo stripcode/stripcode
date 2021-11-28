@@ -5,4 +5,6 @@ Just on python i write more code then another language.
 
 I'm currently working on SQVR LLC. We make product for residents of houses(B2C).
 
+At the beginning of my career, I found a startup and push it for 7 years. But I couldn't make sales  and I decided to finish this
+
 
